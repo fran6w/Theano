@@ -27,4 +27,4 @@ About the author: Francis Wolinski has an Engineering Degree From Ecole des Pont
 as well as a MSc. in Artificial Intelligence and a PhD. in Computer Science from 
 Université Pierre et Marie Curie (UPMC).
 
-Twitter: @fran6wol
+https://twitter.com/fran6wol
